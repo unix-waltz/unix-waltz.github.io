@@ -160,7 +160,10 @@ img {
   top: 2rem;
   background-color: var(--first-color);
 }
-
+#cent{
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
 .nav__logo {
   color: var(--second-color);
 }
