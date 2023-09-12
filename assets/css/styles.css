@@ -172,7 +172,7 @@ img {
 }
 
 /*Active menu*/
-.active::after {
+/* .active::after {
   position: absolute;
   content: '';
   width: 100%;
@@ -180,7 +180,7 @@ img {
   left: 0;
   top: 2rem;
   background-color: var(--first-color);
-}
+} */
 
 /*=== Show menu ===*/
 .show {
