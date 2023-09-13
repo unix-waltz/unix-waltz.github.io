@@ -203,7 +203,9 @@ img {
   display: flex;
   flex-direction: column;
 }
-
+.home__social2 {
+  flex-direction: column;
+}
 .home__social-icon {
   width: max-content;
   margin-bottom: var(--mb-2);
