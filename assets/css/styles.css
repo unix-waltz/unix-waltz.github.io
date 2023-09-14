@@ -137,6 +137,10 @@ img {
     transition: .5s;
   }
 }
+#cent-main {
+  text-align: center; 
+  margin: 0 auto;   
+}
 
 .nav__item {
   margin-bottom: var(--mb-4);
